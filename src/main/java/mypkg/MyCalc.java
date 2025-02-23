@@ -14,6 +14,10 @@ public class MyCalc {
 	{
 		return a*b;
 	}
+	public void greet()
+	{
+		System.out.println("This is Dev Branch code");
+	}
 
 	public static void main(String[] args) {
 		
